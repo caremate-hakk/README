@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>🩵 CareMate — 케어메이트</h1>
+<h1>CareMate — 케어메이트</h1>
 
 **카메라 없이, Wi-Fi 신호만으로 가족의 안부를 전하는 비접촉 돌봄 서비스**
 
